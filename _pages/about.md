@@ -14,8 +14,7 @@ Welcome! I am  a Research Fellow at the [Research Department (RES) of the Inter-
 My research interests lie in the fields of behavioral, development, and political economy, especially in questions related to how norms and beliefs interact with institutions. I am also broadly interested in questions related to prefereces formation and discrimination.
 
 
-# under the supervision of [Juan Pablo Chauvin](https://www.jpchauvin.com/)
-## natural from Belo Horizonte, the capital city of the mountainous state of Minas Gerais, Brazil. I currently live in Washington, DC where I work as 
+
 
 
 
