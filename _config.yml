@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rafael M. Rubião"
   avatar           : "profile2_compressed.jpg"
-  bio              : "Research Fellow at IDB"
-  location         : "Washington, D.C."
-  employer         : "Inter-American Development Bank"
+  bio              : "PhD student at UCLA"
+  location         : "Los Angeles, CA"
+  employer         : "University of California, Los Angeles"
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :  "rafaelmac@iadb.org"
+  email            :  "rafael.rubiao.phd@anderson.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

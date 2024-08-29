@@ -17,9 +17,9 @@ I have three ongoing research projects [Research Page under construction].
 
 The first one, joint with Juan Pablo Chauvin and Miguel Talamas (RES-IDB), aims at estimating the effects of changes in the minimum legal age of sexual consent in Mexican States on outcomes such as early fertility, early marriage, and crime incidence. 
 
-The second one, joint with Juan Pablo Chauvin, seeks to understand the size of the undercounting of teenage mothers around the globe, and the reasons behind it.
+The second one, also with Juan Pablo Chauvin and Miguel Talamas, seeks to understand the size of the undercounting of teenage mothers around the globe and the mechanisms behind it.
 
-The third one, joint with Julian Martinez-Correa (UChicago), estimates how much negative labor market experiences affect people's political leaning and voting behavior, and the mechanisms behind it.
+The third one, joint with Julian Martinez-Correa (UChicago), estimates how much negative labor market experiences affect people's political leaning and voting behavior, and the reasons behind it.
 
 For my MSc dissertation (available upon request), I investigated the effects of the 4G mobile internet roll-out on mental health in the UK.
 
